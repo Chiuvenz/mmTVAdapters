@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+dist/
+External/
+Integrations/BiliTVMac/node_modules/
+Integrations/BiliTVMac/vendor/
+Integrations/BiliTVMac/dist/
+*.log
+.env
