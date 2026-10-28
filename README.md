@@ -41,6 +41,11 @@ Install the `.app` (e.g. into `/Applications`). mmTV’s video module detects `c
 - Isolated Application Support state; no embedding in `com.mmtv.mac`
 - HDMI living-room target remains 1080p unless the user asks otherwise
 
+## Docs
+
+- [STATUS](docs/STATUS.md) — what’s shipped and what’s left for TV smoke
+- [ROADMAP](docs/ROADMAP.md) — adapter-only backlog
+
 ## Provenance
 
 Migrated from [Chiuvenz/mmTV](https://github.com/Chiuvenz/mmTV) `Integrations/BiliTV*`, `Scripts/*-bilitv.sh` (history preserved via `git filter-repo`). Upstream BiliTV is MIT; see `Integrations/BiliTVMac/THIRD-PARTY-NOTICES.md`.
